@@ -7,7 +7,7 @@ Este projeto contém um nó ROS 2 para controlar um TurtleBot utilizando entrada
 - Python
 - Pip
 - Ros2
-- Ter um TurtleBot3 conectado com a raspberry-pi e o ros configurado (Ou simular via gazebo ou webots)
+- Ter um TurtleBot3 conectado com a raspberry-pi e o ros configurado (Ou simular via gazebo / webots)
 ### Clonagem do Repositório E Instalações das dependências
 
 Clone o repositório do projeto:
@@ -28,6 +28,9 @@ Para rodar o projeto você deve executar o arquivo ``` key_listener.py``` utiliz
 python3 key_listener.py
 ```
 Se tudo foi feito corretamente, você pode controlar o robô utilizando as teclas W (CIMA), A (BAIXO), S (DIREITA), D (ESQUERDA) e utilizar X ou Ctrl+C para parar o robô. Além disso, você pode externamente parar o funcionamento do robô rodando o arquivo ```robot_killer.py```
+
+Como o vídeo foi gravado em 2 monitores para mostrar melhor o simulador não foi possível upar ele direto no github pelo limite de 25mb, então foi necessário fazer o upload dele para o youtube.
+Disponível em https://www.youtube.com/watch?v=y3Vouzyc7mA
 
 
 
