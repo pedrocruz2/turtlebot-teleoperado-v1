@@ -27,7 +27,7 @@ Para rodar o projeto você deve executar o arquivo ``` key_listener.py``` utiliz
 ```sh
 python3 key_listener.py
 ```
-Se tudo foi feito corretamente, você pode controlar o robô utilizando as teclas W (CIMA), A (BAIXO), S (ESQUERDA), D (DIREITA) e utilizar X ou Ctrl+C para parar o robô. Além disso, você pode externamente parar o funcionamento do robô rodando o arquivo ```robot_killer.py```
+Se tudo foi feito corretamente, você pode controlar o robô utilizando as teclas W (CIMA), A (ESQUERDA), S (BAIXO), D (DIREITA) e utilizar X ou Ctrl+C para parar o robô. Além disso, você pode externamente parar o funcionamento do robô rodando o arquivo ```robot_killer.py```
 
 Como o vídeo foi gravado em 2 monitores para mostrar melhor o simulador não foi possível upar ele direto no github pelo limite de 25mb, então foi necessário fazer o upload dele para o youtube.
 Disponível em https://www.youtube.com/watch?v=y3Vouzyc7mA
